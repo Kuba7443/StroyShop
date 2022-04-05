@@ -37,7 +37,6 @@ idth, initial-scale=1">
 
 PORTFOLIO
 
- <footer class="w3-center w3-black w3-padding-64 w3-opacity w3-hover-opacity-off">
             <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook w3-hover-opacity"></i></a>
             <a href="https://instagram.com/kuba_dzh?utm_medium=copy_link" target="_blank"><i class="fa fa-instagram w3-hover-opacity"></i></a>
             <a href="https://www.whatsapp.com/" target="_blank"><i class="fa fa-whatsapp w3-hover-opacity"></i></a>
