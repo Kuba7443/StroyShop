@@ -83,7 +83,7 @@ s="w3-row-padding">
       </div>
     </div>
     <div class="w3-third w3-container">
-      <img src="textur6.png" alt="Norway" style="width:100" class="w3-hover-opacity">
+      <img src="textur3.png" alt="Norway" style="width:100" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Pipes</b></p>
         <p>100$</p>
