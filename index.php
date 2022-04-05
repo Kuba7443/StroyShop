@@ -122,39 +122,38 @@ Prices are much lower than in the market or in the store. Sales are carried out 
     
   
   <!-- Contact Section -->
-  <div class="w3-container w3-padding-large w3-grey">
-    <h4 id="contact"><b>Contact Me</b></h4>
-    <div class="w3-row-padding w3-center w3-padding-24" style="margin:0 -16px">
-      <div class="w3-third w3-dark-grey">
-        <p><i class="fa fa-envelope w3-xxlarge w3-text-light-grey"></i></p>
-        <p>email@email.com</p>
-      </div>
-      <div class="w3-third w3-teal">
-        <p><i class="fa fa-map-marker w3-xxlarge w3-text-light-grey"></i></p>
-        <p>Bishkek, KG</p>
-      </div>
-      <div class="w3-third w3-dark-grey">
-        <p><i class="fa fa-phone w3-xxlarge w3-text-light-grey"></i></p>
-        <p>512312311</p>
-      </div>
+  <div class="w3-content w3-container w3-padding-64" id="contact">
+        <h3 class="w3-center">WHERE I STUDY</h3>
+        <p class="w3-center"><em>Ala-Too University</em></p>
+        <div class="w3-row w3-padding-32 w3-section">
+            <div class="w3-col m4 w3-container">
+                <img src="123.png" class="w3-image w3-round" style="width:100%">
+            </div>
+            <div class="w3-col m8 w3-panel">
+                <div class="w3-large w3-margin-bottom">
+                    <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Bishkek, KR<br>
+                    <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: +996 709 62 11 40<br>
+                    <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email:
+                    kubanych.zh.u.04@gmail.com<br>
+                </div>
+                <p>You can come and to drink coffee <i class="fa fa-coffee"></i></p>
+                <form action="/action_page.php" target="_blank">
+                    <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
+                        <div class="w3-half">
+                            <input class="w3-input w3-border" type="text" placeholder="Name" required name="Name">
+                        </div>
+                        <div class="w3-half">
+                            <input class="w3-input w3-border" type="text" placeholder="Email" required name="Email">
+                        </div>
+                    </div>
+                    <input class="w3-input w3-border" type="text" placeholder="Message" required name="Message">
+                    <button class="w3-button w3-black w3-right w3-section" type="submit">
+                        <a href="https://instagram.com/kuba_dzh?utm_medium=copy_link"><i class="fa fa-paper-plane"></i> SEND MESSAGE</a>
+                    </button>
+                </form>
+            </div>
+        </div>
     </div>
-    <hr class="w3-opacity">
-    <form action="/action_page.php" target="_blank">
-      <div class="w3-section">
-        <label>Name</label>
-        <input class="w3-input w3-border" type="text" name="Name" required>
-      </div>
-      <div class="w3-section">
-        <label>Email</label>
-        <input class="w3-input w3-border" type="text" name="Email" required>
-      </div>
-      <div class="w3-section">
-        <label>Message</label>
-        <input class="w3-input w3-border" type="text" name="Message" required>
-      </div>
-      <button type="submit" class="w3-button w3-black w3-margin-bottom"><i class="fa fa-paper-plane w3-margin-right"></i>Send Message</button>
-    </form>
-  </div>
 
   
 <!-- End page content -->
