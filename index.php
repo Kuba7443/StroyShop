@@ -31,12 +31,6 @@ idth, initial-scale=1">
     <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>CONTACT</a>
   </div>
   <div class="w3-panel w3-large">
-    <i class="fa fa-facebook-official w3-hover-opacity"></i>
-    <i class="fa fa-instagram w3-hover-opacity"></i>
-    <i c
-
-PORTFOLIO
-
             <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook w3-hover-opacity"></i></a>
             <a href="https://instagram.com/kuba_dzh?utm_medium=copy_link" target="_blank"><i class="fa fa-instagram w3-hover-opacity"></i></a>
             <a href="https://www.whatsapp.com/" target="_blank"><i class="fa fa-whatsapp w3-hover-opacity"></i></a>
