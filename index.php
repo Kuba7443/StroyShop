@@ -152,7 +152,7 @@ Prices are much lower than in the market or in the store. Sales are carried out 
         <label>Message</label>
         <input class="w3-input w3-border" type="text" name="Message" required>
       </div>
-      <a href="https://instagram.com/kuba_dzh?utm_medium=copy_link"><i class="fa fa-paper-plane"></i> SEND MESSAGE</a>
+      <button type="submit" class="w3-button w3-black w3-margin-bottom"><i class="fa fa-paper-plane w3-margin-right"></i>Send Message</button>
     </form>
   </div>
 
