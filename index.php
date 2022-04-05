@@ -109,7 +109,7 @@ s="w3-row-padding">
       <img src="ava.png" alt="Me" style="width:100%">
     </div>
     <div class="w3-col m6">
-      <img src="https://www.w3schools.com/w3images/me2.jpg" alt="Me" style="width:100%">
+      <img src="ava2.png" alt="Me" style="width:100%">
     </div>
   </div>
 
@@ -133,8 +133,7 @@ Prices are much lower than in the market or in the store. Sales are carried out 
                     <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: +996 709 62 11 40<br>
                     <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email:
                     kubanych.zh.u.04@gmail.com<br>
-                </div>
-                <p>You can come and to drink coffee <i class="fa fa-coffee"></i></p>
+                </div> 
                 <form action="/action_page.php" target="_blank">
                     <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
                         <div class="w3-half">
