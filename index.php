@@ -89,13 +89,6 @@ s="w3-row-padding">
         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
       </div>
     </div>
-
-PORTFOLIO
-
-Template by W3.CSS
-
-Filter:
-
   </div>
 
   <!-- Pagination -->
