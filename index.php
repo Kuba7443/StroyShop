@@ -122,7 +122,7 @@ Prices are much lower than in the market or in the store. Sales are carried out 
     
   
   <!-- Contact Section -->
-    <h3 class="w3-center">WHERE I STUDY</h3>
+  <h5><b>Contact</b></h5>
   <div class="w3-content w3-container w3-padding-64" id="contact">
         <div class="w3-row w3-padding-32 w3-section">
             <div class="w3-col m4 w3-container">
