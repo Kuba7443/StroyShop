@@ -115,12 +115,12 @@ s="w3-row-padding">
 
   <div class="w3-container w3-padding-large" style="margin-bottom:32px">
     <h4><b>About Shop</b></h4>
-    <p>Just me, myself and I, exploring the universe of unknownment. I have a heart of love and an interest of lorem ipsum and mauris neque quam blog. I want to share my world with you. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
+    <p>Our store offers a wide range of: professional equipment, as well as consumables from the world's leading manufacturers: Husqvarna, Partner, B&S, Pramac, Dimas, Weka, etc.
+
+Prices are much lower than in the market or in the store. Sales are carried out both at retail and wholesale. Do not waste your precious time and energy visiting countless shops and markets in search of the necessary tool. Just go to our website, choose the tool that suits you and place an order.</p>
     <hr>
     
-    <h4>Technical Skills</h4>
-   
-
+  
   <!-- Contact Section -->
   <div class="w3-container w3-padding-large w3-grey">
     <h4 id="contact"><b>Contact Me</b></h4>
