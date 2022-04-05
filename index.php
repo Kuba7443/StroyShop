@@ -55,7 +55,7 @@ lass="fa fa-snapchat w3-hover-opacity"></i>
 
   <!-- Header -->
   <header id="Shop">
-    <a href="#"><img src="https://www.w3schools.com/w3images/avatar_g2.jpg" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
+    <a href="#"><img src="ava.png" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
     <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
     <div class="w3-container">
     <h1><b>KubaStroy</b></h1>
@@ -106,7 +106,7 @@ s="w3-row-padding">
   <!-- Images of Me -->
   <div class="w3-row-padding w3-padding-16" id="about">
     <div class="w3-col m6">
-      <img src="https://www.w3schools.com/w3images/avatar_g.jpg" alt="Me" style="width:100%">
+      <img src="ava.png" alt="Me" style="width:100%">
     </div>
     <div class="w3-col m6">
       <img src="https://www.w3schools.com/w3images/me2.jpg" alt="Me" style="width:100%">
@@ -125,7 +125,7 @@ Prices are much lower than in the market or in the store. Sales are carried out 
   <div class="w3-content w3-container w3-padding-64" id="contact">
         <div class="w3-row w3-padding-32 w3-section">
             <div class="w3-col m4 w3-container">
-                <img src="123.png" class="w3-image w3-round" style="width:100%">
+                <img src="qr.png" class="w3-image w3-round" style="width:100%">
             </div>
             <div class="w3-col m8 w3-panel">
                 <div class="w3-large w3-margin-bottom">
