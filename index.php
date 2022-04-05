@@ -69,7 +69,7 @@ SroyShop
 
 s="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="textur1.png" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <img src="textur1.png" alt="Norway" style="width:75%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Lorem Ipsum</b></p>
         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
@@ -83,7 +83,7 @@ s="w3-row-padding">
       </div>
     </div>
     <div class="w3-third w3-container">
-      <img src="textur3.png" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <img src="textur3.png" alt="Norway" style="width:125%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Lorem Ipsum</b></p>
         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
