@@ -31,9 +31,21 @@ idth, initial-scale=1">
     <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-padding"><i class="fa fa-envelope fa-fw w3-margin-right"></i>CONTACT</a>
   </div>
   <div class="w3-panel w3-large">
-            <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook w3-hover-opacity"></i></a>
-            <a href="https://instagram.com/kuba_dzh?utm_medium=copy_link" target="_blank"><i class="fa fa-instagram w3-hover-opacity"></i></a>
-            <a href="https://www.whatsapp.com/" target="_blank"><i class="fa fa-whatsapp w3-hover-opacity"></i></a>
+    <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook w3-hover-opacity"></i></a>
+    <a href="https://instagram.com/kuba_dzh?utm_medium=copy_link" target="_blank"><i class="fa fa-instagram w3-hover-opacity"></i></a>
+    <i c
+
+PORTFOLIO
+
+Template by W3.CSS
+KubaStroy
+Filter:
+lass="fa fa-snapchat w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i>
+  </div>
+</nav>
   
 <!-- Overlay effect when opening sidebar on small screens -->
 <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
