@@ -123,8 +123,6 @@ Prices are much lower than in the market or in the store. Sales are carried out 
   
   <!-- Contact Section -->
   <div class="w3-content w3-container w3-padding-64" id="contact">
-        <h3 class="w3-center">WHERE I STUDY</h3>
-        <p class="w3-center"><em>Ala-Too University</em></p>
         <div class="w3-row w3-padding-32 w3-section">
             <div class="w3-col m4 w3-container">
                 <img src="123.png" class="w3-image w3-round" style="width:100%">
@@ -148,7 +146,7 @@ Prices are much lower than in the market or in the store. Sales are carried out 
                     </div>
                     <input class="w3-input w3-border" type="text" placeholder="Message" required name="Message">
                     <button class="w3-button w3-black w3-right w3-section" type="submit">
-                        <a href="https://instagram.com/kuba_dzh?utm_medium=copy_link"><i class="fa fa-paper-plane"></i> SEND MESSAGE</a>
+                        <a href=login.php><i class="fa fa-paper-plane"></i> SEND MESSAGE</a>
                     </button>
                 </form>
             </div>
